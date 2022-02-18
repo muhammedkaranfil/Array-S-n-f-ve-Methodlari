@@ -1,0 +1,15 @@
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\bin\Debug\net6.0\Array-S-n-f-ve-Methodlari.exe
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\bin\Debug\net6.0\Array-S-n-f-ve-Methodlari.deps.json
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\bin\Debug\net6.0\Array-S-n-f-ve-Methodlari.runtimeconfig.json
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\bin\Debug\net6.0\Array-S-n-f-ve-Methodlari.dll
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\bin\Debug\net6.0\ref\Array-S-n-f-ve-Methodlari.dll
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\bin\Debug\net6.0\Array-S-n-f-ve-Methodlari.pdb
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\obj\Debug\net6.0\Array-S-n-f-ve-Methodlari.csproj.AssemblyReference.cache
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\obj\Debug\net6.0\Array-S-n-f-ve-Methodlari.GeneratedMSBuildEditorConfig.editorconfig
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\obj\Debug\net6.0\Array-S-n-f-ve-Methodlari.AssemblyInfoInputs.cache
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\obj\Debug\net6.0\Array-S-n-f-ve-Methodlari.AssemblyInfo.cs
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\obj\Debug\net6.0\Array-S-n-f-ve-Methodlari.csproj.CoreCompileInputs.cache
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\obj\Debug\net6.0\Array-S-n-f-ve-Methodlari.dll
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\obj\Debug\net6.0\ref\Array-S-n-f-ve-Methodlari.dll
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\obj\Debug\net6.0\Array-S-n-f-ve-Methodlari.pdb
+F:\deneme1\array ve methodu\Array-S-n-f-ve-Methodlari\obj\Debug\net6.0\Array-S-n-f-ve-Methodlari.genruntimeconfig.cache
